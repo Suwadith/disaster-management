@@ -1,22 +1,3 @@
-// var map = new GMaps({
-//     el: '#map',
-//     lat:  7.873054,
-//     lng: 80.771797
-// });
-
-// // map.addMarker({
-// //     lat: 40.700610,
-// //     lng: -73.997242,
-// //     title: 'New York',
-// //     infoWindow: {
-// //       content: 'New York'
-// //     }
-// // });
-
-// map.setZoom(7);
-
-
-
 var map;
 function initMap() {
   var haputale = {lat: 6.768863, lng: 80.958574};
